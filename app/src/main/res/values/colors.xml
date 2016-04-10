@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ED3B3B</color>
+    <color name="colorPrimaryDark">#BE2F2F</color>
+    <color name="colorAccent">#4DB6AC</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="colorPrimaryTransparent">#59ED3B3B</color>
+
+
+    <color name="theme_play_detail_white_background">#FFFFFF</color>
+    <color name="theme_play_detail_grey_background">#EEEEEE</color>
+
+    <color name="theme_play_action_bar">#ED3B3B</color>
+    <color name="theme_play_transparent_action_bar">#00ED3B3B</color>
+
+    <color name="theme_play_detail_button">#ED3B3B</color>
+    <color name="theme_play_detail_more_button">#D23F31</color>
+    <color name="theme_play_detail_spacer">#f1f1f1</color>
+    <color name="theme_play_detail_title_text">#212121</color>
+    <color name="theme_play_detail_title_tinytext">#555555</color>
+    <color name="theme_play_detail_overview">#323232</color>
+
+</resources>
